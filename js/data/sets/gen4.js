@@ -767,7 +767,19 @@ var SETDEX_DPP = {
                 "Bullet Punch",
                 "Iron Head",
                 "U-turn"
-            ] 			
+            ] 	
+        },
+        "Elite Four Aaron Team 4": {
+            "level": 71,
+            "item": "Life Orb",            
+            "nature": "Adamant",
+            "ability": "Technician",
+            "moves": [
+                "Bug Bite",
+                "Bullet Punch",
+                "Iron Head",
+                "U-turn"
+            ] 				
         }		
     },
 
@@ -4984,7 +4996,19 @@ var SETDEX_DPP = {
 				"Earth Power",
 				"Hurricane"
             ]	
-		}		
+		},
+        "Elite Four Aaron Team 4": {
+            "level": 71,
+			"item": "White Herb",
+            "nature": "Timid",
+            "ability": "Compound Eyes",
+            "moves": [
+                "Bug Buzz",
+                "Draco Meteor",
+				"Earth Power",
+				"Fire Blast"
+            ]	
+		}			
     },
 
     "Dragonite": {
