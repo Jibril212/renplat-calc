@@ -1253,6 +1253,17 @@ var SETDEX_DPP = {
                 "Close Combat",
                 "Rock Slide",
                 "Bullet Seed",
+            ]	
+		 },	
+        "Ace Trainer Aran": {
+            "level": 54,          
+            "nature": "Rash",
+            "ability": "Guts",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Rock Slide",
+                "Protect",
             ]			
 		}	
     },
@@ -3856,7 +3867,18 @@ var SETDEX_DPP = {
                 "Focus Blast",
 				"Earth Power",
 				"Thunder Punch"
-            ]			
+            ]	
+		},
+        "Ace Trainer Aran": {
+            "level": 54,   
+            "nature": "Relaxed",
+            "ability": "Adaptability",
+            "moves": [
+                "Lava Plume",
+                "Extrasensory",
+				"Earth Power",
+				"Protect"
+            ]				
 		}		
     },
 
@@ -3949,19 +3971,30 @@ var SETDEX_DPP = {
 				"Ice Fang",
 				""
             ]	
-		}
+		},
+        "Ace Trainer Nephenee": {
+            "level": 54,           
+            "nature": "Rash",
+            "ability": "Intimidate",
+            "moves": [
+                "Aqua Tail",
+                "Crunch",
+				"Aqua Jet",
+				"Agility"
+            ]	
+		}		
     },
 
     "Blissey": {
-        "Ace Trainer Mariah": {
-            "level": 63,           
-            "nature": "Calm",
+        "Ace Trainer Nephenee": {
+            "level": 54,           
+            "nature": "Hasty",
             "ability": "Serene Grace",
             "moves": [
-                "Calm Mind",
+                "Light Screen",
                 "Hyper Voice",
 				"Soft-Boiled",
-				"Ice Beam"
+				"Dazzling Gleam"
             ]
 		}
     },
@@ -4354,6 +4387,17 @@ var SETDEX_DPP = {
                 "Crunch",
 				"Earthquake",
 				"Fire Punch"
+            ]
+		},	
+        "Ace Trainer Aran": {
+            "level": 54,      			
+            "nature": "Quiet",
+            "ability": "Sand Stream",
+            "moves": [
+                "Rock Slide",
+                "Crunch",
+				"Protect",
+				"Fire Blast"
             ]
 		}			
     },
@@ -5107,7 +5151,21 @@ var SETDEX_DPP = {
                 "Aqua Tail",
 				"Night Slash",
 				"Aqua Jet"
-            ]				
+            ]	
+		}		
+    },
+
+    "Meganium": {
+        "Ace Trainer Nephenee": {
+            "level": 54,      		
+            "nature": "Mild",
+            "ability": "Serene Grace",
+            "moves": [
+                "Petal Dance",
+                "Earth Power",
+				"Grass Whistle",
+				"Reflect"
+            ]			
         }			
     }
 }
