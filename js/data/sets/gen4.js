@@ -3455,6 +3455,17 @@ var SETDEX_DPP = {
                 "Thunderbolt",
                 "Aura Sphere",
                 "Solar Beam"
+            ]	
+		},
+        "Ace Trainer Dalton": {
+            "level": 52,          
+            "nature": "Impish",
+            "ability": "Flame Body",
+            "moves": [
+                "Flamethrower",
+                "Thunderbolt",
+                "Psychic",
+                "Focus Blast"
             ]				
 		}		
     },
@@ -4008,7 +4019,18 @@ var SETDEX_DPP = {
 				"Soft-Boiled",
 				"Dazzling Gleam"
             ]
-		}
+		},
+        "Ace Trainer Olivia": {
+            "level": 52,           
+            "nature": "Modest",
+            "ability": "Serene Grace",
+            "moves": [
+                "Thunderbolt",
+                "Hyper Voice",
+				"Soft-Boiled",
+				"Flamethrower"
+            ]
+		}		
     },
 
     "Jumpluff": {
@@ -4954,6 +4976,17 @@ var SETDEX_DPP = {
 				"Ice Beam",
 				"Dragon Dance"
             ]
+		},
+        "Ace Trainer Dalton": {
+            "level": 52,      		
+            "nature": "Mild",
+            "ability": "Swift Swim",
+            "moves": [
+                "Muddy Water",
+                "Dragon Pulse",
+				"Ice Beam",
+				"Yawn"
+            ]			
 		}		
     },
 
@@ -4968,7 +5001,18 @@ var SETDEX_DPP = {
 				"Ice Beam",
 				"Hurricane"
             ]
-		}		
+		},
+        "Ace Trainer Olivia": {
+            "level": 52,      		
+            "nature": "Rash",
+            "ability": "Cloud Nine",
+            "moves": [
+                "Flamethrower",
+                "Dragon Pulse",
+				"Ice Beam",
+				"Moonblast"
+            ]
+		}				
     },
 
     "Porygon-Z": {
@@ -5189,6 +5233,34 @@ var SETDEX_DPP = {
                 "Earth Power",
 				"Grass Whistle",
 				"Reflect"
+            ]		
+		}		
+    },
+
+    "Venusaur": {
+        "Ace Trainer Dalton": {
+            "level": 52,      		
+            "nature": "Calm",
+            "ability": "Thick Fat",
+            "moves": [
+                "Petal Dance",
+                "Earthquake",
+				"Sludge Bomb",
+				"Sleep Powder"
+            ]	
+		}		
+    },
+
+    "Shiftry": {
+        "Ace Trainer Olivia": {
+            "level": 52,      		
+            "nature": "Quiet",
+            "ability": "Chlorophyll",
+            "moves": [
+                "Leaf Blade",
+                "Dark Pulse",
+				"Hurricane",
+				"Fake Out"
             ]			
         }			
     }
