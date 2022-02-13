@@ -3503,7 +3503,7 @@ var DPP_PATCH = {
     },
     Roserade: {
         types: ['Grass', 'Poison'],
-        bs: { hp: 60, at: 70, df: 55, sa: 125, sd: 105, sp: 90 },
+        bs: { hp: 60, at: 70, df: 65, sa: 125, sd: 105, sp: 90 },
         weightkg: 14.5,
         abilities: { 0: 'Natural Cure' }
     },
